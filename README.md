@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arohan+%F0%9F%91%8B;Builder.+Breaker.+Rebuilder.;Systems+%7C+Hardware+%7C+Real-world+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arohan+%F0%9F%91%8B;Builder.+Breaker.+Fixer.;Systems+%7C+Hardware+%7C+Real-world+code)](https://git.io/typing-svg)
 
 
 </div>
@@ -9,13 +9,15 @@
 
 ###  About Me
 
+- Electronics and Computers Student
+- Loves System integration, Hardware and building fun projects
 - Competing in the **European Rover Challenge 2026** with a Mars Rover team
 - Building **TerraScansi** — satellite data tooling for governments & NGOs to combat urban heat, pollution, and resource waste *(Delhi, we see you)*
 - Working on a **React-equivalent framework for C++** built on Dear ImGui
 - Graphic designer — social media, event promotion, visual identity
-- I make music. Not just for fun, seriously
-- 🤫 Secret audio project... *you'll find out*
-- Shifting from fun builds to **real constraints** — hardware limits, unreliable data, scale, impact
+- I make music. Not just for fun.
+- 🤫 Secret audio automation project... *you'll find out*
+- Gradually Shifting from fun builds to **real constraints** — hardware limits, unreliable data, scale, impact
 - Always up to learn, collaborate, and ship something cool
 - 📍 Based in **Delhi, India**
 
@@ -65,6 +67,7 @@
 |---|---|---|
 | **Mars Rover** | Autonomous rover for the European Rover Challenge 2026 | Active |
 | **TerraScansi** | Satellite data platform for urban resource optimization | Active |
+| **Quadcopter Drones x2**  | Discovering drone systems, Designs And avionic principles| WIP (1 done)|
 | **ImGui React** | React-style reactive UI framework for C++ / Dear ImGui | WIP |
 | **Event Promotion** | Social media design & visual campaigns for events | Ongoing |
 | **Zelda / Star Wars Games Inspired Games** | Original games built from scratch in Pygame | Shipped |
