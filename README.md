@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,css,git,raspberrypi,arduino,selenium,django,heroku,autocad,blender" />
+</p>
+
+---
+
 ###  About Me
 
 - Electronics and Computers Student
