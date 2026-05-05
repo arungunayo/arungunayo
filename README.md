@@ -4,9 +4,66 @@
 
 </div>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,git,raspberrypi,arduino,selenium,django,autocad,blender,figma,css" />
-</p>
+<table>
+<tr>
+<td valign="middle">
+
+<pre>
+                           .*/////////*/////,
+                      .*//*****,,/******//////(%
+                    /**,.                  ,,*//(/
+                 ,*,.                            ,/(#
+               *.                                   ,//%
+             . .  .                                    ,//
+           ,.. ...         ..                             */#
+          ,.. ,,,.        ..,   ,/*///***,,                 ,/#
+         ,,......      ...,,**///(/(((((###(///*,             ./
+       .,..,.,.        ..    .,,*///(((/((((/////,              ,/
+      .,,.., *(*.      ....,..   .,**..     .....*       .,*.     ,
+      .,.,*,,..,,,  . .,... ...*. ,((/*,,...**(**/,  .   ,(**,(,  ,/
+      ,*,,*.,*,  ... ...,....,,,, *(../**,/,.*//,/,..,   ./,((/.  ,/
+      ,*,,//,,.,..  .,..,***/**,,.*((,/////////***.(**   ,**(#/...,*
+      ,,,,,,/*/**,,. .%.,,****,..,/#(/*,,/////*/***//  .,,,.*/*.  **
+      ,*,,/*,.,,,, .  ....,,,,.. .,*/,*,*,***,//*  .  .,,.,,**,, .,*
+      .*,**((///*..   ...,,,...    ..,,*,*,*****, . ....**/****, .,*
+    . ..,.,,**,..      ...,.     .... ....,,****,, .     ..,*,.,.,*//**#(((,
+    ...  ,.. ,..        ...,,,....,,,,,///***** ,, ,,,...,.,*  ,.,**,,*////(
+.,,,,,*,,.  ...,,..        .,,,**,***///////*,..,...*,,,,.,,*.,,. (.////.///*
+,,,*,,*,**** .. ,,,...        .,,,***///*//*,...... *,,,,,,,***,* (*.//,*/////
+*,*******,,*,*  . **,,..           ....,,,,..,. .* ..*.,,,,,,**/.,,.(.,,,*//,///
+***,*,*******,*,..***,,..                     .  .    ,,,,,****/ .. #  .,,******
+************,,*  ,****,,..               , ..,.,...  ,,,,*******      .,,,*,,,**
+********,***,,   ,*,****,..  ...     ..,,,,,,**,*.  .,**.,******.  .(.,,,.,,,,,,
+*****,,*,,,,,.. .,,,.,*,*,,.,..,. ..,,,,,,,*,***,   ..,*********   .*.    ......
+******,,,,,,.   .,.,,***,,,,... ...,.,,**,**,*,.. . ,,********,,.   /..        .
+*,.,*,,,,...  , .,,,,,,**,,.  .,.,        .....  ,,  ,, ., ,,,,,,   ..       ..,
+,,,*,.,,,,.. ....,,,,,,,,,.. ..,,...,,.,,,,,,,.  .,,*,.,, .,,,,,,  *        ,**,
+,,,,,....,.,.  ,..,,,,,,..  ,,,,,  .....,...,...,, ..,****,,,**,,              .
+,,......,..,,,.,,,***,,..  ,,,,,,. .,*,.,,,.,,,*,,,,*********,,,,.    .  *
+,,,..... ..,,, .,,,,,,,,.  *,,,,, ..,,, ,*...,,,,,,,*********,,,..       .
+,,,,       ,,.,.,,,,.,,,.  ,,,.., ...,. .*,,.,*,,,,,*********,,,,.  .
+,,,,      .  ,,,..  .,,,.  ,,,,,.  ....  ,*,..,,,,,,**. *,*,,,,,.     ,     *
+,,..,          .., .,,,.   ,,,,,.. .,,...   .,,,,.,,., ,,,,......
+...            ........   ,,..,., . ..,........................                *
+</pre>
+
+</td>
+<td valign="middle" align="center" width="180">
+
+<img src="https://skillicons.dev/icons?i=py" /><br>
+<img src="https://skillicons.dev/icons?i=c" /><br>
+<img src="https://skillicons.dev/icons?i=cpp" /><br>
+<img src="https://skillicons.dev/icons?i=git" /><br>
+<img src="https://skillicons.dev/icons?i=raspberrypi" /><br>
+<img src="https://skillicons.dev/icons?i=arduino" /><br>
+<img src="https://skillicons.dev/icons?i=selenium" /><br>
+<img src="https://skillicons.dev/icons?i=autocad" /><br>
+<img src="https://skillicons.dev/icons?i=blender" /><br>
+<img src="https://skillicons.dev/icons?i=figma" /><br>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -98,7 +155,8 @@ Always up to learn, collaborate, and ship something real.
 
 ### 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:projectsarungunayo@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arohan-arora/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:projectsarungunayo@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arungunayo&style=flat-square&color=58A6FF)
