@@ -144,8 +144,11 @@ Always up to learn, collaborate, and ship something real.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arungunayo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arungunayo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+<!-- Stats card -->
+<img src="https://github-readme-stats-orcin-eta-46.vercel.app/api?username=arungunayo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" height="160" />
+
+<!-- Top langs card -->
+<img src="https://github-readme-stats-orcin-eta-46.vercel.app/api/top-langs/?username=arungunayo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" height="160" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arungunayo&theme=tokyonight&hide_border=true)
 
