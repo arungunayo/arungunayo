@@ -83,7 +83,7 @@ Always up to learn, collaborate, and ship something real.
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **[Mars Rover](https://roverchallenge.eu/team/team-vyomagami-2026/)** | Autonomous rover for European Rover Challenge 2026 | C++, ROS, Python | 🟢 Active |
+| **[Mars Rover](https://roverchallenge.eu/team/team-vyomagami-2026/)** | Autonomous rover for European Rover Challenge 2026 | C++, Python | 🟢 Active |
 | **[TerraScansi](https://github.com/arungunayo/Terrascansi)** | Satellite data platform for urban resource optimization | Python, Streamlit, Geospatial APIs | 🟢 Active |
 | **ImGui React** | React-style reactive UI framework for C++ / Dear ImGui | C++, Dear ImGui | 🔨 WIP |
 | **Quadcopter Drones x2** | Drone systems, avionics, and flight controller design | Hardware, C | 🔨 WIP (1 done) |
