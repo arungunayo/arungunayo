@@ -1,6 +1,8 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: arungunayo
-show: [languages, contributions, streaks, summary]
+show: [summary, languages, contributions, streaks]
+cards:summary:
+  ring: github
 count:
   private: true
   orgs: true
@@ -8,3 +10,4 @@ look:
   style: classic
   color: green
   background: none
+
