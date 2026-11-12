@@ -74,6 +74,12 @@ Building rovers, combat robots, drones and satellite tooling, now heading into M
   <img src="https://raw.githubusercontent.com/arungunayo/arungunayo/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
 </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arungunayo/arungunayo/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/arungunayo/arungunayo/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+</p>
 <!-- cool-readme:end -->
 
 <br>
