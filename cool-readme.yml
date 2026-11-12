@@ -1,0 +1,10 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: arungunayo
+show: [languages, contributions, streaks, summary]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: green
+  background: none
