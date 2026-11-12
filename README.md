@@ -1,5 +1,7 @@
  <div align="center">
-
+<table>
+<tr>
+<td align="left">
 <pre>
                            .*/////////*/////,
                       .*//*****,,/******//////(%
@@ -38,7 +40,9 @@
 ,,..,          .., .,,,.   ,,,,,.. .,,...   .,,,,.,,., ,,,,......
 ...            ........   ,,..,., . ..,........................                *
 </pre>
-
+</td>
+</tr>
+</table>
 # Arohan Arora
 
 **Electronics & computer science student in Delhi.**
