@@ -1,11 +1,11 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: arungunayo
-show: [summary, languages, contributions, streaks]
+show: [summary, languages, contributions, streaks, weekly]
 count:
   private: true
   orgs: true
 look:
-  style: dotmatrix
-  color: red
-  background: 0d0606
+  style: classic
+  color: purple
+  background: none
 
