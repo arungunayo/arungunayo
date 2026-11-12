@@ -5,7 +5,7 @@ count:
   private: true
   orgs: true
 look:
-  style: oled
-  color: green
-  background: none
+  style: dotmatrix
+  color: red
+  background: 0d0606
 
